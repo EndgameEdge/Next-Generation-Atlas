@@ -1408,10 +1408,53 @@
             "Content": "AVC must represent the interest of MKR holders, and cannot represent or be closely affiliated with an external entity. AVCs must always operate with awareness of members’ conflict of interest and take all reasonable steps to make sure that their alignment is preserved. This Section must specify ways to deal with this risk."
         },
         "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Child_Documents": [
+			"A.1.5.6.0"
+		],
         "links_to": {},
         "linked_from": []
     },
+	"A.1.5.6.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-11-02",
+        "Child_Documents": [
+            "A.1.5.6.0.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.6.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Cannot Represent Element Analysis": "A.2.5.6.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-02",
+        "Child_Documents": [
+            "A.2.12.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.6.0.2.1": {
+        "Name": "Cannot Represent Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "Cannot represent",
+            "Analysis": "\"cannot represent\" strictly delineates boundaries of AVCs' roles and responsibilities, explicitly forbidding them from acting on behalf of, or advocating for, any external entities. This prohibition is absolute and unyielding, reflecting a zero-tolerance approach towards potential conflicts of interest. The essence of this clause is to prevent the dilution of AVCs' focus and allegiance.\n In the context of governance, this ensures that AVCs remain solely focused on the interests of MKR holders. It safeguards the decision-making process from being influenced or swayed by external affiliations, thereby upholding the integrity and impartiality of the AVC's role. The term \"represent\" here covers a broad spectrum of actions, from explicit advocacy to subtler forms of support or affiliation.\n Understanding and identifying instances of this misaligned representation involves observing various indicators. These include, but are not limited to, advocating for policies or actions that disproportionately benefit a specific external entity, regularly communicating or coordinating with external entities in a manner that suggests a shared agenda, and prioritizing the interests or perspectives of an external party over those of MKR holders. Additionally, if an AVC exhibits a consistent pattern of aligning their views or decisions with those of an external entity, especially in cases where such alignment diverges from the broader interests of MKR holders, this may be construed as representation."
+        },
+        "Last_Modified": "2023-11-02-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    }
     "A.1.5.7": {
         "Name": "Voter Expectations and Strategic Perspectives",
         "Version": 1,
