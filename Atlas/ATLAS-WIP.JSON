@@ -1407,7 +1407,7 @@
         "Components": {
             "Content": "AVC must represent the interest of MKR holders, and cannot represent or be closely affiliated with an external entity. AVCs must always operate with awareness of members’ conflict of interest and take all reasonable steps to make sure that their alignment is preserved. This Section must specify ways to deal with this risk."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-02-00:00:00",
         "Child_Documents": [
 			"A.1.5.6.0"
 		],
@@ -1419,7 +1419,7 @@
         "Version": 1,
         "Type": "Supporting Root",
         "Components": {},
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-02-00:00:00",
         "Child_Documents": [
             "A.1.5.6.0.2"
         ],
@@ -1435,7 +1435,7 @@
                 "Cannot Represent Element Analysis": "A.1.5.6.0.2.1"
             }
         },
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-02-00:00:00",
         "Child_Documents": [
             "A.2.12.0.2.1"
         ],
