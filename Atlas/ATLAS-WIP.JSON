@@ -297,7 +297,7 @@
     },
     "A.1.2.1.0.2.1":
     {
-        "Name": "Operating the atlas",
+        "Name": "Operating Element Analysis",
         "Version": 1,
         "Type": "Element Analysis",
         "Components":
@@ -1435,7 +1435,7 @@
         "linked_from": []
     },
     "A.1.4.2.0.3.1": {
-        "Name": "Assuming Multiple Ecosystem Roles",
+        "Name": "Assuming Multiple Ecosystem Roles Action Example #1",
         "Version": 1,
         "Type": "FacilitatorDAO Action Example",
         "Components": {
@@ -1451,7 +1451,7 @@
         "linked_from": []
     },
     "A.1.4.2.0.3.2": {
-        "Name": "Entity's Dual Roles in NEWDAO Governance",
+        "Name": "Assuming Multiple Ecosystem Roles Action Example #2",
         "Version": 1,
         "Type": "FacilitatorDAO Action Example",
         "Components": {
@@ -1527,7 +1527,7 @@
 		"Version": 1,
 		"Type": "FacilitatorDAO Action Example",
 		"Components": {
-			"Input": "An anonymous Aligned Delegate and a different anonymous AVC member are found out to be the same person and this is reported to the FacilitatorDAO",
+			"Input": "An anonymous Aligned Delegate and a different anonymous AVC member are found out to be the same person and this is reported to the FacilitatorDAO.",
 			"Output": "The FacilitatorDAO gives the Alignment Conserver a warning for mild misalignment and makes them abandon one of their identities.",
 			"Label": "Misaligned",
 			"Penalty": 250000,
@@ -1566,7 +1566,7 @@
     "A.1.5": {
         "Name": "Aligned Voter Committees (AVCs)",
         "Version": 1,
-        "Type": "Section",
+        "Type": "Article",
         "Components": {
             "Content": "AVC are standardized Voter Committees made up of Alignment Conservers that hold MKR and participate in the Maker Governance process as actors that are deeply aligned with MKR holders. They are subject to specific requirements, and receive various benefits, resources, and support from the Support Scope. They have significant formal powers, but no direct physical power, making them well-suited to be in control and making key decisions during normal conditions.\n AVCs focus on making sure that the day-to-day Letter of the Rules of the Atlas are aligned with the Spirit of the Atlas. The AVCs impact on Maker Governance is to make marginal improvements to the Adaptive Documents of the Atlas that strengthen them. As AVCs make detailed Universal Alignment interpretations, they must all follow a particular Strategic Perspective that informs their subjective definition of Universal Alignment."
         },
