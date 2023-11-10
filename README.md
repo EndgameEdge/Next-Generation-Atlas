@@ -8,7 +8,7 @@ We have integrated the best examples from the last two weeks in the last version
 
 To view the specific changes made to the JSON code, you can visit the following link:
 
-[View JSON Changes](https://www.diffchecker.com/07C4wpm8/)
+[View JSON Changes](https://www.diffchecker.com/yl4PWxGl/)
 
 This link will take you to `diffchecker.com`, where the differences between the old and new JSON file are highlighted.
 
