@@ -1377,7 +1377,7 @@
 		"Components": {
 			"Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to governance issues, to serve as a guide for future decision-making."
 		},
-		"Last_Modified": "2023-08-16-19:07:00",
+		"Last_Modified": "2023-11-09-00:00:00",
 		"Child_Documents": [
 			"A.1.4.3.0.3.1",
 			"A.1.4.3.0.3.2"
@@ -1393,7 +1393,7 @@
 			"Input": "An AD submits an AVC recognition message and applies to join an AVC. This AD does not explicitly mention that they would be resigning from the AD role if accepted as an AVC member.",
 			"Output": "The FacilitatorDAO gives the Alignment Conserver a warning for mild misalignment",
 			"Label": "Aligned",
-			"Penalty": "0",
+			"Penalty": 0,
 			"Penalty_Reason": "N/A"
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
@@ -1409,7 +1409,7 @@
 			"Input": "An anonymous Aligned Delegate and a different anonymous AVC member are found out to be the same person and this is reported to the FacilitatorDAO",
 			"Output": "The FacilitatorDAO gives the Alignment Conserver a warning for mild misalignment and makes them abandon one of their identities.",
 			"Label": "Misaligned",
-			"Penalty": "250,000",
+			"Penalty": 250000,
 			"Penalty_Reason": "This is a severe case of misalignment that can be interpreted as a governance attack. The FacilitatorDAO should have derecognized all identities of the Alignment Conserver and stripped all of their reputation."
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
@@ -1572,7 +1572,7 @@
 			"Input": "As per the ratified Aligned Governance Strategy of an AVC, the topmost priority is to uphold the peg of DAI. A proposal is introduced that promises substantial revenue but also carries a notable risk of temporary depegs. The AVC advises its delegates to vote in favor of this proposal.",
 			"Output": "The response from the FacilitatorDAO to this misalignment was inadequate, as they failed to issue a formal warning to the AVC, at the very least. In the future, the required minimum action by the FacilitatorDAO may be more clearly defined within the Atlas. This action example will need to be updated accordingly.",
 			"Label": "Misaligned",
-			"Penalty": "150,000 NST",
+			"Penalty": 150000,
 			"Penalty_Reason": "This situation highlights a scenario in which an AVC fails to fulfill a crucial objective by voting based on their strategic perspective, which constitutes a significant form of misalignment. It is the responsibility of the FacilitatorDAO to address and penalize such misalignment, and failing to do so also constitutes a form of misalignment."
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
@@ -1580,7 +1580,6 @@
 		"links_to": {},
 		"linked_from": []
 	},
-
     "A.1.5.3": {
         "Name": "Aligned Voter Committee (AVC) Recognition Process and Active Status eligibility",
         "Version": 1,
@@ -1588,7 +1587,51 @@
         "Components": {
             "Content": "New or inactive AVCs have the right to become recognized as Active AVCs by the Governance Scope if they fulfill the AVC eligibility requirements for participation and internal governance for at least one full quarterly governance cycle. If at any time after becoming recognized as an Active AVC, the AVC no longer completely fulfills all of the eligibility requirements, including all following all requirements specified in this Article, it immediately loses its recognition as an active AVC and all associated benefits. Before creating an AVC, an Alignment Conserver must verify as an unaffiliated Alignment Voter Committee Member through a process specified in this Section."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+			"A.1.5.3.0"
+		],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.3.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.5.3.0.3"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.3.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.5.3.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.3.0.3.1": {
+        "Name": "Not recognizing AVC due to being passive",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example",
+        "Components": {
+            "Input": "A new or inactive AVC have fulfilled the AVC eligibility requirements for participation and internal governance for one full quarterly governance cycle.",
+            "Output": "The FacilitatorDAO initially had a period of seven days to communicate the updated status of the AVC. However, no communication was made within this period. Following a nudge from an AVC member after these seven days, a 72-hour deadline commenced. Despite this reminder and the subsequent deadline, the FacilitatorDAO failed to provide any official communication or update the AVC's status within these additional 72 hours. This resulted in a significant delay in updating the community, thereby affecting transparency and governance processes.",
+            "Label": "Misaligned",
+            "Penalty": 7000,
+            "Penalty_Reason": "Given the lack of responsiveness and the impact of this delay on community trust and governance integrity, a penalty is warranted to address this misalignment."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
         "Child_Documents": [],
         "links_to": {},
         "linked_from": []
@@ -1817,7 +1860,7 @@
             "Input": "An AD has submitted a proposal to change the Atlas, but has done so without first obtaining support from the AVCs with which it has established its Governance Strategy Links. In an effort to garner the necessary support for the proposal's approval, the AD has engaged in retrospective public or non-public lobbying efforts aimed at ADs and AVCs.",
             "Output": "Upon encountering the situation, the FacilitatorDAO queried the AD regarding the support status for its proposal. The AD provided a response that was ambiguous and lacked clarity. Despite this uncertainty and the apparent deviation from the required process of obtaining clear support from AVCs, the FacilitatorDAO did not pursue further clarification or take any measures to halt the progression of the proposal into the voting stage.",
             "Label": "Misaligned",
-            "Penalty": "100.000 NST",
+            "Penalty": 100000,
             "Penalty_Reason": "The FacilitatorDAO failed in its essential duty by permitting an AD to exert undue influence and advance its own strategic perspectives, ultimately allowing the proposal to reach the voting stage."
         },
         "Last_Modified": "2023-11-09-00:00:00",
