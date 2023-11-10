@@ -244,17 +244,74 @@
         "links_to": {},
         "linked_from": []
     },
-    "A.1.2.1": {
-        "Name": "Universal Alignment and the Spirit of the Atlas",
+	"A.1.2.1": {
+		"Name": "Universal Alignment and the Spirit of the Atlas",
+		"Version": 1,
+		"Type": "Section",
+		"Components": {
+			"Content": "The Spirit of the Atlas are the foundational principles that steer the NEWDAO Governance process. The Spirit of the Atlas are grounded concepts that enables coordination in the NEW Ecosystem around a resilient governance equilibrium that optimizes for Universal Alignment between the NEW Ecosystem and its surrounding environment. The grounded concepts of the Spirit of the Atlas provide specific boundaries for distinguishing Universal Alignment and misalignment when operating in the NEW Ecosystem context. The Immutable Documents of the Atlas are the bedrock for determining Universal Alignment of the NEW Ecosystem's rules and incentives, and hold precedence over any other conflicting rules or decisions. In situations where the Immutable Documents cannot be directly interpreted, the Spirit of the Atlas should be inferred in a way that maximizes Universal Alignment and mitigates risks of slippery slope misalignment. Achieving this necessitates a comprehensive understanding of Universal Alignment and the logic of how it is grounded in the Spirit of the Atlas within NEWDAO, and this Section must specify the processes to ensure the right research and documentation efforts occur to proactively protect the Spirit of the Atlas in the NEW Ecosystem."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [
+			"A.1.2.1.0"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+    "A.1.2.1.0":
+    {
+        "Name": "Supporting Root",
         "Version": 1,
-        "Type": "Section",
-        "Components": {
-            "Content": "The Spirit of the Atlas are the foundational principles that steer the NEWDAO Governance process. The Spirit of the Atlas are grounded concepts that enables coordination in the NEW Ecosystem around a resilient governance equilibrium that optimizes for Universal Alignment between the NEW Ecosystem and its surrounding environment. The grounded concepts of the Spirit of the Atlas provide specific boundaries for distinguishing Universal Alignment and misalignment when operating in the NEW Ecosystem context. The Immutable Documents of the Atlas are the bedrock for determining Universal Alignment of the NEW Ecosystem's rules and incentives, and hold precedence over any other conflicting rules or decisions. In situations where the Immutable Documents cannot be directly interpreted, the Spirit of the Atlas should be inferred in a way that maximizes Universal Alignment and mitigates risks of slippery slope misalignment. Achieving this necessitates a comprehensive understanding of Universal Alignment and the logic of how it is grounded in the Spirit of the Atlas within NEWDAO, and this Section must specify the processes to ensure the right research and documentation efforts occur to proactively protect the Spirit of the Atlas in the NEW Ecosystem."
+        "Type": "Supporting Root",
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents":
+        [
+            "A.1.2.1.0.2"
+        ],
+        "links_to":
+        {},
+        "linked_from":
+        []
+    },
+    "A.1.2.1.0.2":
+    {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components":
+        {
+            "List of Elements and their Element Analysis Documents":
+            {
+                "Operating Element Analysis": "A.1.2.1.0.2.1"
+            }
         },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
-        "links_to": {},
-        "linked_from": []
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents":
+        [
+            "A.1.2.1.0.2.1"
+        ],
+        "links_to":
+        {},
+        "linked_from":
+        []
+    },
+    "A.1.2.1.0.2.1":
+    {
+        "Name": "Operating the atlas",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components":
+        {
+            "Element": "Operating",
+            "Analysis": "To effectively analyze operating in this context, it's crucial to first identify the stakeholders involved. Once identified, their actual engagement when operating should be examined. In the context of the NEW Ecosystem, the stakeholders significant for this analysis are those whose actions can be considered aligned or misaligned in the context of the Atlas. The impact of this alignment or misalignment can be either positive or negative for these stakeholders. The key stakeholders in this scenario include the ACs (Aligned Voter Committee Members, Aligned Delegates, Facilitators, and Budget Allocators), the Ecosystem Actors (Scope Advisors and Active Ecosystem Actors), and the SubDAOs.\nThe subsequent step involves pinpointing specific actions or instances of inactivity that qualify as operational activities. These may encompass participation in governance, contributions of work (whether paid or unpaid) as long as it is covered by the Atlas directly or indirectly, or any other forms of engagement that aim to influence the equilibrium established by the Atlas"
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents":
+        [],
+        "links_to":
+        {},
+        "linked_from":
+        []
     },
     "A.1.2.2": {
         "Name": "Interpretation of the Spirit of the Atlas",
@@ -1577,7 +1634,7 @@
         "links_to": {},
         "linked_from": []
     },
-    "A.1.6.1": {
+    "A.1.6A.1.6.1": {
         "Name": "Protocol Delegation Modules (PDMs)",
         "Version": 1,
         "Type": "Section",
