@@ -1395,18 +1395,75 @@
         "linked_from": []
     },
 
-    "A.1.5.1": {
-        "Name": "Role of the Aligned Voter Committee (AVC) in Governance",
-        "Version": 1,
-        "Type": "Section",
-        "Components": {
-            "Content": "The Aligned Voter Committee (AVC) holds a central position in the broader aligned structure, directly connecting with MKR holders, Dai holders, and key stakeholders of the ecosystem.\n Their main role is to monitor the Spiritual Alignment of the Aligned Structure and act on deviations between Universal Alignment and Incentivized Alignment. One of their significant duties is proposing modifications to the Scope Artifacts to bridge alignment gaps or address incentive slack issues, ensuring that incentivized alignment mirrors Universal Alignment as closely as possible.\n AVCs must emphasize safeguarding and enhancing long-term alignment artifact strength. Neglecting this duty or shifting its priority for other objectives results in a severe misalignment.\n AVCs should steer clear of prescriptive and self-justifying methods when strengthening the Alignment Artifact. This section must outline principles for FacilitatorDAOs to step in when AVCs show signs of micromanagement or potential misalignment that steps outside the bounds of their role.\n Every proposal by AVCs to strengthen the Atlas should have a clear justification, ensuring that their processes are Universally Aligned, transparent, neutral, fair, and beneficial to MakerDAO in the long run. Furthermore, AVCs must also consider and justify the effects of their actions on the Future Alignment Risk associated with AVC itself."
-        },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
-        "links_to": {},
-        "linked_from": []
-    },
+	"A.1.5.1": {
+		"Name": "Role of the Aligned Voter Committee (AVC) in Governance",
+		"Version": 1,
+		"Type": "Section",
+		"Components": {
+			"Content": "The Aligned Voter Committee (AVC) holds a central position in the broader aligned structure, directly connecting with MKR holders, Dai holders, and key stakeholders of the ecosystem.\n Their main role is to monitor the Spiritual Alignment of the Aligned Structure and act on deviations between Universal Alignment and Incentivized Alignment. One of their significant duties is proposing modifications to the Scope Artifacts to bridge alignment gaps or address incentive slack issues, ensuring that incentivized alignment mirrors Universal Alignment as closely as possible.\n AVCs must emphasize safeguarding and enhancing long-term alignment artifact strength. Neglecting this duty or shifting its priority for other objectives results in a severe misalignment.\n AVCs should steer clear of prescriptive and self-justifying methods when strengthening the Alignment Artifact. This section must outline principles for FacilitatorDAOs to step in when AVCs show signs of micromanagement or potential misalignment that steps outside the bounds of their role.\n Every proposal by AVCs to strengthen the Atlas should have a clear justification, ensuring that their processes are Universally Aligned, transparent, neutral, fair, and beneficial to MakerDAO in the long run. Furthermore, AVCs must also consider and justify the effects of their actions on the Future Alignment Risk associated with AVC itself."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [
+			"A.1.5.1.0"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.1.0": {
+		"Name": "Supporting Root",
+		"Version": 1,
+		"Type": "Supporting Root",
+		"Components": {},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [
+			"A.1.5.1.0.3"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.1.0.3": {
+		"Name": "FacilitatorDAO Action Example Directory",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example Directory",
+		"Components": {
+			"Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [
+			"A.1.5.1.0.3.1",
+			"A.1.5.1.0.3.2"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.1.0.3.1": {
+		"Name": "Micromanaging AVC Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An instance has arisen where an AVC is engaging in micromanagement of ADs who follow it. One AD has raised a flag regarding this matter.",
+			"Output": "As this is the initial occurrence of such an issue, the FacilitatorDAO issues a formal warning to the AVC.",
+			"Label": "Aligned"
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.1.0.3.2": {
+		"Name": "AVC Neglecting Duty Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An AVC has been neglecting its duty of safeguarding and enhancing long-term alignment artifact strength.",
+			"Output": "As this is the initial occurrence of such an issue, the FacilitatorDAO issues a formal warning to the AVC.",
+			"Label": "Aligned"
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 
     "A.1.5.2": {
         "Name": "Aligned Governance Strategies and Aligned Scope Proposals",
