@@ -1437,7 +1437,7 @@
         },
         "Last_Modified": "2023-11-02-00:00:00",
         "Child_Documents": [
-            "A.2.12.0.2.1"
+            "A.1.5.6.0.2.1"
         ],
         "links_to": {},
         "linked_from": []
@@ -1563,6 +1563,65 @@
         "links_to": {},
         "linked_from": []
     },
+	"A.1.9.2":
+    {
+        "Name": "Aligned Delegate support for Aligned Voter Committees",
+        "Version": 1,
+        "Type": "Section",
+        "Components":
+        {
+            "Content": "Aligned Delegates are expected to provide crucial support to AVCs in the domains where they are the most aligned actors.\n ADs can help with the design and improvement of the Scope Improvement Articles, which are the first Articles of each of the Scope Alignment Artifacts.\n ADs can support AVCs in proposing specific elements that provide unambiguous and objective constraints on which types of Advisory Council Members will be most in the interest of MKR holders for Facilitators to propose to onboard.\n ADs can support AVCs in proposing specific elements that provide unambiguous and effective boundaries on what advisory council projects the Facilitators can fund, and how to prioritize them and choose which Advisory Council Member to perform the project.\n ADs can do research and knowledge gathering about relevant things in the Maker ecosystem and how it relates generally to governance or to specific AVCs and their strategic perspective, and present it publicly to AVCs\n *It is important that this activity doesn't create risk of politicization, which is why the transparency and the strict focus on objective fact finding is the central element of ADs interactions with Ecosystem Actors.*\n ADs can help AVCs write and shape elements and sets of elements for Scope Aligned Scope Proposals, ensuring that they are congruent with best practice for writing elements and that they maximally capture the intent of the AVC and the Advisory Councils.\n As they work closely with the Alignment Artifacts and the correct interpretation thereof, and are generally deeply involved in core governance, ADs are well positioned to provide this kind of neutral, governance-technical support to AVCs.\n ADs can help AVCs craft the language of the AVC Aligned Governance Strategy to ensure that it gives them the flexibility and the directions that properly reflect the AVCs intention.\n ADs can give AVCs feedback on how they will interpret different drafts of the AVC Governance Strategies, and the AVCs can then use that to fine tune the result they want to get."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+		"A.1.9.2.0"
+		],
+        "links_to":
+        {},
+        "linked_from":
+        []
+    },
+	"A.1.9.2.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.9.2.0.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.9.2.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Crucial support Element Analysis": "A.1.9.2.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.9.2.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.9.2.0.2.1": {
+        "Name": "Crucial Support Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "provide crucial support",
+            "Analysis": "Provide means the Aligned Delegate must act and actually do something. The decision regarding what kind of support the delegate is actually providing is ranked between a \"need to do\" and a \"nice to do.\"\n\nCrucial - the aligned delegates must step up and be vigilant. Upholding the status quo of the Atlas and fighting off misalignment and slippery slope as a watchdog, combined with governance participation defined elsewhere in the Atlas, is mandatory. All other activities have to be set aside when these matters come to the surface. The \"nice to do\" activities vary between being competent and becoming more competent over time, fostering community stewardship, being helpful, converting strategy into action, and fostering cross AVC collaboration. The context around the element, describing what the Aligned Delegates can do, serve as guidance for such \"nice to do\" activities. In addition to the term \"crucial,\" the more MKR tokens they have delegated and the more individual MKR token holders who decide to put their trust in the delegates, the more is expected from them. As both Reserve Delegates and Aligned Delegates are well rewarded, it is expected of them to scale their contribution to fit the increasing expectations and pay.\n\nSupport means delegates solely provide a service body. They are not allowed to engage in any politicking, and they must stay on top of the governance developments. For instance, they should provide guidance if meetings are taking a turn that could result in misalignment, bring discussions back on track, or identify and correct stakeholders who are gradually trying to move governance discussions—and perhaps even decisions—in a direction that becomes misaligned with the Atlas."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    }
      "A": {
         "Name": null,
         "Version": null,
