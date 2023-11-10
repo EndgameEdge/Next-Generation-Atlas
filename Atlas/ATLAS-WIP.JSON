@@ -1600,7 +1600,8 @@
         "Components": {},
         "Last_Modified": "2023-11-09-00:00:00",
         "Child_Documents": [
-            "A.1.6.0.2"
+            "A.1.6.0.2",
+			"A.1.6.0.3"
         ],
         "links_to": {},
         "linked_from": []
@@ -1634,7 +1635,37 @@
         "links_to": {},
         "linked_from": []
     },
-    "A.1.6A.1.6.1": {
+    "A.1.6.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.6.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.6.0.3.1": {
+        "Name": "AD going rogue",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example",
+        "Components": {
+            "Input": "An AD has submitted a proposal to change the Atlas, but has done so without first obtaining support from the AVCs with which it has established its Governance Strategy Links. In an effort to garner the necessary support for the proposal's approval, the AD has engaged in retrospective public or non-public lobbying efforts aimed at ADs and AVCs.",
+            "Output": "Upon encountering the situation, the FacilitatorDAO queried the AD regarding the support status for its proposal. The AD provided a response that was ambiguous and lacked clarity. Despite this uncertainty and the apparent deviation from the required process of obtaining clear support from AVCs, the FacilitatorDAO did not pursue further clarification or take any measures to halt the progression of the proposal into the voting stage.",
+            "Label": "Misaligned",
+            "Penalty": "100.000 NST",
+            "Penalty_Reason": "The FacilitatorDAO failed in its essential duty by permitting an AD to exert undue influence and advance its own strategic perspectives, ultimately allowing the proposal to reach the voting stage."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.6.1": {
         "Name": "Protocol Delegation Modules (PDMs)",
         "Version": 1,
         "Type": "Section",
