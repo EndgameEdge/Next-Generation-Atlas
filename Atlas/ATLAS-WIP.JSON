@@ -1522,7 +1522,57 @@
         "Components": {
             "Content": "ADs are Alignment Conservers that have registered based on the processes specified in the Governance Scope Artifact. ADs operate GSLs, and receive various benefits while being subject to specific requirements in addition to the general Alignment Conserver requirements. ADs have significant physical power over the Maker Protocol as they control votes obtained from the Governance Participation Rewards. As a result their focus is to protect the Maker Ecosystem against abuse of this power by themselves or others, and to use the power to protect the Maker Ecosystem in case other parts of the Governance Process take misaligned actions. To avoid politicization of their power, ADs must not become involved in day to day marginal governance decisions or have their own strategic perspectives."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+			"A.1.6.0",
+			"A.1.6.1",
+			"A.1.6.2",
+			"A.1.6.3",
+			"A.1.6.4",
+			"A.1.6.5",
+			"A.1.6.6",
+			"A.1.6.7"
+		],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.6.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.6.0.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.6.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Marginal governance decision Element Analysis": "A.1.6.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.6.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.6.0.2.1": {
+        "Name": "Marginal governance decision Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "Marginal governance decision",
+            "Analysis": "ADs are Alignment Conservers that have registered based on the processes specified in the Governance Scope Artifact. ADs operate GSLs, and receive various benefits while being subject to specific requirements in addition to the general Alignment Conserver requirements. ADs have significant physical power over the Maker Protocol as they control votes obtained from the Governance Participation Rewards. As a result their focus is to protect the Maker Ecosystem against abuse of this power by themselves or others, and to use the power to protect the Maker Ecosystem in case other parts of the Governance Process take misaligned actions. To avoid politicization of their power, ADs must not become involved in day to day marginal governance decisions or have their own strategic perspectives."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
         "Child_Documents": [],
         "links_to": {},
         "linked_from": []
