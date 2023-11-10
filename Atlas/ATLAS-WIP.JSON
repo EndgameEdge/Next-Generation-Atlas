@@ -1345,18 +1345,78 @@
         "links_to": {},
         "linked_from": []
     },
-    "A.1.4.3": {
-        "Name": "Derecognition of Alignment Conservers",
+	"A.1.4.3": {
+		"Name": "Derecognition of Alignment Conservers",
+		"Version": 1,
+		"Type": "Section",
+		"Components": {
+			"Content": "If an Alignment Conserver is discovered to act against the requirements outlined in this Article and its subdocuments, their Alignment Conserver status must immediately be derecognized by the FacilitatorDAOs. This Section must specify the processes for derecognition so that they are fair and minimize risk for the NEWDAO Ecosystem. Generally, ACs must be held to the highest standard of required, genuine alignment, without the benefit of the doubt. In cases of very mild 'slippery slope' breaches of the AC requirements or other forms of misalignment, a warning may be given and recorded in the subdocuments of the AC Article with no further consequence for the first breach. In severe cases that can be interpreted as Governance Attacks, in addition to being derecognized, the AC is also stripped of all reputation recognized in reputation systems of the Atlas."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [
+			"A.1.4.3.0"
+			],
+		"links_to": {},
+		"linked_from": []
+	},
+    "A.1.4.3.0": {
+        "Name": "Supporting Root",
         "Version": 1,
-        "Type": "Section",
-        "Components": {
-            "Content": "If an Alignment Conserver is discovered to act against the requirements outlined in this Article and its subdocuments, their Alignment Conserver status must immediately be derecognized by the FacilitatorDAOs. This Section must specify the processes for derecognition so that they are fair and minimize risk for the NEWDAO Ecosystem. Generally, ACs must be held to the highest standard of required, genuine alignment, without the benefit of the doubt. In cases of very mild 'slippery slope' breaches of the AC requirements or other forms of misalignment, a warning may be given and recorded in the subdocuments of the AC Article with no further consequence for the first breach. In severe cases that can be interpreted as Governance Attacks, in addition to being derecognized, the AC is also stripped of all reputation recognized in reputation systems of the Atlas."
-        },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Type": "Supporting Root",
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.4.3.0.3"
+        ],
         "links_to": {},
         "linked_from": []
     },
+	"A.1.4.3.0.3": {
+		"Name": "FacilitatorDAO Action Example Directory",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example Directory",
+		"Components": {
+			"Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to governance issues, to serve as a guide for future decision-making."
+		},
+		"Last_Modified": "2023-08-16-19:07:00",
+		"Child_Documents": [
+			"A.1.4.3.0.3.1",
+			"A.1.4.3.0.3.2"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.3.1": {
+		"Name": "Misaligned Alignment Conserver Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An AD submits an AVC recognition message and applies to join an AVC. This AD does not explicitly mention that they would be resigning from the AD role if accepted as an AVC member.",
+			"Output": "The FacilitatorDAO gives the Alignment Conserver a warning for mild misalignment",
+			"Label": "Aligned",
+			"Penalty": "0",
+			"Penalty_Reason": "N/A"
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.3.2": {
+		"Name": "Misaligned Alignment Conserver Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An anonymous Aligned Delegate and a different anonymous AVC member are found out to be the same person and this is reported to the FacilitatorDAO",
+			"Output": "The FacilitatorDAO gives the Alignment Conserver a warning for mild misalignment and makes them abandon one of their identities.",
+			"Label": "Misaligned",
+			"Penalty": "250,000",
+			"Penalty_Reason": "This is a severe case of misalignment that can be interpreted as a governance attack. The FacilitatorDAO should have derecognized all identities of the Alignment Conserver and stripped all of their reputation."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.4.4": {
         "Name": "Anonymity and Privacy of Alignment Conservers",
         "Version": 1,
