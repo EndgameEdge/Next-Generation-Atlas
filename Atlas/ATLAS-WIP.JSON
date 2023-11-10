@@ -1473,10 +1473,53 @@
             "Content": "The main operational task of Aligned Voter Committees (AVCs) is to formulate updated, ratified Aligned Governance Strategy and Aligned Scope Proposals for each of the 5 Scopes on a quarterly basis.\n The Aligned Governance Strategy is a document that serves as a directive for ADs on how to utilize the votes of their GSLs for each linked AVC. The initial section of this strategy is the AVC Profile, limited to 280 characters. Displayed prominently within the EGF and other vital Maker Governance interfaces, this profile should clearly convey the AVC's essence. AVC actions should align with their Profile, and a crucial aspect for AVCs is the ability to encapsulate their Strategic Perspective succinctly in their AVC Profile. This ensures that EGF users have a clear understanding of what it means to delegate their votes in alignment with the AVC's strategy, encompassing both the Aligned Governance Strategy and the Aligned Scope Proposals that the AVC produces. As the AVCs differentiate and evolve, norms and standardized ways to communicate particular strategic perspectives must be followed to the extent possible by all AVCs, in order to ensure ease of communication and to prevent misdirection.\n Aligned Scope Proposals are more rigorous documents that contain proposed updates to the Adaptive Documents of each Scope. Typically, the foundation for these proposals is laid by the Scope Advisors, upon which the AVC adds and communicates its distinct strategic viewpoint.\n The Aligned Governance Strategy and Aligned Scope Proposals must be submitted as Active Data into a Document under the Aligned Voter Committee Active Data section."
         },
         "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Child_Documents": [
+			"A.1.5.2.0"
+		],
         "links_to": {},
         "linked_from": []
     },
+    "A.1.5.2.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.5.2.0.3"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.2.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.1.5.2.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.2.0.3.1": {
+		"Name": "Misaligned Aligned Scope Proposal Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "As per the ratified Aligned Governance Strategy of an AVC, the topmost priority is to uphold the peg of DAI. A proposal is introduced that promises substantial revenue but also carries a notable risk of temporary depegs. The AVC advises its delegates to vote in favor of this proposal.",
+			"Output": "The response from the FacilitatorDAO to this misalignment was inadequate, as they failed to issue a formal warning to the AVC, at the very least. In the future, the required minimum action by the FacilitatorDAO may be more clearly defined within the Atlas. This action example will need to be updated accordingly.",
+			"Label": "Misaligned",
+			"Penalty": "150,000 NST",
+			"Penalty_Reason": "This situation highlights a scenario in which an AVC fails to fulfill a crucial objective by voting based on their strategic perspective, which constitutes a significant form of misalignment. It is the responsibility of the FacilitatorDAO to address and penalize such misalignment, and failing to do so also constitutes a form of misalignment."
+		},
+		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 
     "A.1.5.3": {
         "Name": "Aligned Voter Committee (AVC) Recognition Process and Active Status eligibility",
