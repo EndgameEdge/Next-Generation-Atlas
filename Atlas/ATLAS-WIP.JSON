@@ -1454,7 +1454,7 @@
         "Child_Documents": [],
         "links_to": {},
         "linked_from": []
-    }
+    },
     "A.1.5.7": {
         "Name": "Voter Expectations and Strategic Perspectives",
         "Version": 1,
@@ -1621,7 +1621,7 @@
         "Child_Documents": [],
         "links_to": {},
         "linked_from": []
-    }
+    },
      "A": {
         "Name": null,
         "Version": null,
@@ -1815,6 +1815,87 @@
             "Instructions": "Deserializes and saves a function from a string. Specify the function name. Usage: deserialize_and_save_function(serialized_function, function_name)",
             "Serialized_Function": "def deserialize_and_save_function(serialized_function, function_name):\n    \"\"\"\n    Deserialize a serialized function string and define it in the Python environment.\n\n    Parameters:\n    - serialized_function (str): The serialized string representation of the function.\n    - function_name (str): The name to assign to the deserialized function.\n    \"\"\"\n    # Prepare the code to exec by renaming the function to the provided function name\n    deserialized_function_code = serialized_function.replace(\n        serialized_function.split('(', 1)[0].split()[-1], \n        function_name\n    )\n    # Define the function in the Python environment\n    exec(deserialized_function_code, globals())\n"
         },
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12": {
+        "Name": "Purpose System",
+        "Version": 1,
+        "Type": "Article",
+        "Components": {
+            "Content": "To protect the long term integrity of its governance community, Maker will always share financial success with the world through charity that is distributed broadly and with thoughtful and genuine consideration of its impact. This permanent, guaranteed, direct action locks in aspects of universal alignment, even in the face of community misalignment, by ensuring aligned community members are always attracted to participate in Maker Governance and are more likely to voluntarily deal with misalignment issues. The Purpose System aims to fund public good open source AI and software projects that benefit the Maker Ecosystem and public good. At all times, at least 10% of the Purpose System funds must be used for more direct and specific impact solutions."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+			"A.2.12.0",
+            "A.2.12.1",
+            "A.2.12.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Components": {},
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.2.12.0.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Direct and specific impact solutions Element Analysis": "A.2.12.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [
+            "A.2.12.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12.0.2.1": {
+        "Name": "Direct and specific impact solutions Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "Direct and specific impact solutions",
+            "Analysis": "Direct and specific impact solutions refer to initiatives or projects that have a tangible and measurable effect on addressing specific challenges or achieving desired outcomes. The term implies that the solutions should be targeted, focused, and result-oriented, rather than vague or general in nature."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12.1": {
+        "Name": "Long Term Purpose System",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "The Maker Protocol emits 3 million NewGovToken per year for the Purpose System from the moment NewChain is launched. This section must cover the long term Purpose System and the process for allocating purpose funds to SubDAOs in the yearly purpose contest, from the moment NewChain is launched."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.2.12.2": {
+        "Name": "Short Term Purpose Fund",
+        "Version": 1,
+        "Type": "Section",
+        "Components": {
+            "Content": "This section must cover the short term Purpose Fund process. This includes setting up an advisory group that can help allocate 40 million NewGovToken towards public good open source AI, with at least 10% going to more directly impactful public good initiatives. The Purpose Fund must be fully spent before 2033."
+        },
+        "Last_Modified": "2023-11-09-00:00:00",
+        "Child_Documents": [],
         "links_to": {},
         "linked_from": []
     }
