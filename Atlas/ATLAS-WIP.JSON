@@ -1914,7 +1914,7 @@
         "Components": {
             "Content": "AVC must limit their participation in Maker Governance to the creation of Aligned Governance Strategy and Aligned Scope Proposals that function resiliently based on open, objective processes and stay at a high enough level to ensure micromanagement isn't possible. AVCs must not attempt to create biased or unfair conditions for specific Ecosystem Actors, or attempt to put in place unjustified, granular decisions directly, or indirectly through biased processes. GOV5 must specify processes in which AVCs are deactivated and their members derecognized in case there is clear misalignment risk. Any attempt by AVC to micromanage governance significantly increases the risk of misalignment as there could easily be a hidden conflict of interest behind the attempt at micromanagement. This section must detail principles and processes for detecting and reacting to the edge case risks related to AVCs overstepping their roles in the governance process."
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.8.0"
 		],
@@ -1926,7 +1926,7 @@
         "Version": 1,
         "Type": "Supporting Root",
         "Components": {},
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.8.0.2"
 		],
@@ -1943,16 +1943,18 @@
                 "Biased or Unfair Conditions Element Analysis": "A.1.5.8.0.2.2",
                 "Unjustified, Granular Decisions Element Analysis": "A.1.5.8.0.2.3",
                 "Indirectly Through Biased Processes Element Analysis": "A.1.5.8.0.2.4",
-                "Clear Misalignment Risk Element Analysis": "A.1.5.8.0.2.5"
+                "Clear Misalignment Risk Element Analysis": "A.1.5.8.0.2.5",
+				"Unjustified Element Analysis": "A.1.5.8.0.2.6"
             }
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.8.0.2.1",
 			"A.1.5.8.0.2.2",
 			"A.1.5.8.0.2.3",
 			"A.1.5.8.0.2.4",
-			"A.1.5.8.0.2.5"
+			"A.1.5.8.0.2.5",
+			"A.1.5.8.0.2.6"
 		],
         "links_to": {},
         "linked_from": []
@@ -2022,6 +2024,19 @@
         "links_to": {},
         "linked_from": []
     },
+	"A.1.5.8.0.2.6": {
+		"Name": "Unjustified Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "unjustified",
+		  "Analysis": "This element should be considered in conjunction with or in relation to the AVCs potential misuse of power through biased or unfair conditions described in the Element 1.5.8.0.2.1.\n'Unjustified' can be manifested as disproportionate resource allocations that cannot be explained by objective criteria, specific requirements that seem to serve no clear purpose other than to benefit certain entities, obligations imposed on certain actors that are excessively burdensome compared to industry norms, the withholding of information that should reasonably be accessible, or operating conditions imposed on some that are inexplicably more onerous than those placed on others. These identifiers are crucial for ensuring that the influence of AVCs is exercised with equity and accountability."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.5.9": {
         "Name": "Aligned Voter Committee infrastructure support",
         "Version": 1,
