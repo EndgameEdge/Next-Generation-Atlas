@@ -1583,7 +1583,7 @@
 		"Components": {
 			"Content": "The Aligned Voter Committee (AVC) holds a central position in the broader aligned structure, directly connecting with MKR holders, Dai holders, and key stakeholders of the ecosystem.\n Their main role is to monitor the Spiritual Alignment of the Aligned Structure and act on deviations between Universal Alignment and Incentivized Alignment. One of their significant duties is proposing modifications to the Scope Artifacts to bridge alignment gaps or address incentive slack issues, ensuring that incentivized alignment mirrors Universal Alignment as closely as possible.\n AVCs must emphasize safeguarding and enhancing long-term alignment artifact strength. Neglecting this duty or shifting its priority for other objectives results in a severe misalignment.\n AVCs should steer clear of prescriptive and self-justifying methods when strengthening the Alignment Artifact. This section must outline principles for FacilitatorDAOs to step in when AVCs show signs of micromanagement or potential misalignment that steps outside the bounds of their role.\n Every proposal by AVCs to strengthen the Atlas should have a clear justification, ensuring that their processes are Universally Aligned, transparent, neutral, fair, and beneficial to MakerDAO in the long run. Furthermore, AVCs must also consider and justify the effects of their actions on the Future Alignment Risk associated with AVC itself."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.5.1.0"
 		],
@@ -1595,13 +1595,42 @@
 		"Version": 1,
 		"Type": "Supporting Root",
 		"Components": {},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
+			"A.1.5.1.0.2",
 			"A.1.5.1.0.3"
 		],
 		"links_to": {},
 		"linked_from": []
 	},
+	"A.1.5.1.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Prescriptive and Self-Justifying Methods Element Analysis": "A.1.5.1.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.5.1.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.1.0.2.1": {
+        "Name": "Prescriptive and Self-Justifying Methods Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "prescriptive and self-justifying methods",
+			"Analysis": "One of the roles of the AVCs is to propose modifications to the Scope Artifacts. These proposals are supposed to be aligned. The person or group who writes or controls the written word wields significant power and is most commonly referred to as the 'power of the pen' or the 'legislative drafting power'. The AVCs possess this power, and this element, prescriptive and self-justifying methods, addresses some limitations associated with this power.\nPrescriptive methods applied by the AVCs on Alignment Artifacts involve specifying exact rules or actions. These changes, while offering clarity, can lead to a rigid framework, potentially hindering flexibility and innovation. Signs of overly prescriptive methods include AVC proposals that allow little room for alternative approaches or interpretations.\nSimultaneously, the AVCs' use of self-justifying methods, whether intentional or not, can reinforce their own role and authority. This can overshadow broader goals and interests of all stakeholders in the NEW ecosystem. Indicators include AVC proposals that emphasize the complexity of their role or create dependency on their expertise.\nTo mitigate these risks, regular review and challenge of AVC proposals are necessary by other ACs, as described in A.1.4.1,. In addition, this element must be read in connection to 'A.1.5.8' and its underlying elements."        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
 	"A.1.5.1.0.3": {
 		"Name": "FacilitatorDAO Action Example Directory",
 		"Version": 1,
