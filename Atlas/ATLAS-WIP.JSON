@@ -1328,11 +1328,41 @@
         "Components": {
             "Content": "ACs are subject to strict requirements due to their critical role in safeguarding the resilience, and alignment of the NEW Ecosystem. They must always act to preserve the Spirit of the Atlas and to genuinely fight against all forms of corruption, organizational drift, and other misalignment threats. ACs may never collude or secretly organize to change the Immutable Documents, overturn or sidestep the Spirit of the Atlas, or take actions that are misaligned, or may disrupt the governance dynamic of NEWDAO, or through inaction allow any of the above to happen. ACs must operate only within the clearly delineated processes and frameworks of the Immutable Documents, and must be held to the highest standard when judging whether their actions are Universally Aligned."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+			"A.1.4.1.0"
+		],
         "links_to": {},
         "linked_from": []
     },
+    "A.1.4.1.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.4.1.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+	},
+	"A.1.4.1.0.3.1": {
+		"Name": "Anon Dilemma FacilitatorDAO Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "One AC owns shares as a business angel in a potential Ecosystem Actors company. The AC is not disclosing this anywhere when the Ecosystem Actors product is being proposed onboarded as an Ecosystem Actor serving the NEWDAO ecosystem. The reason is the AC on one side can not reveal its identity and on the other side has a requirement to make a disclosure of this ownership. This later comes to knowledge of a FacilitatorDAO.",
+			"Output": "The FacilitatorDAO determines what role the AC had and how the AC acted when the proposal was being voted on. Since the AC was an AD and for that specific proposal abstained from voting without stating the actual reason on the forum, the FacilitatorDAO decides to do nothing.",
+			"Label": "Aligned"
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.4.2": {
         "Name": "Roles of Alignment Conservers (ACs)",
         "Version": 1,
