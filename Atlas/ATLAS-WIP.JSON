@@ -1588,10 +1588,11 @@
 		"Components": {
 			"Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to governance issues, to serve as a guide for future decision-making."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.4.3.0.3.1",
-			"A.1.4.3.0.3.2"
+			"A.1.4.3.0.3.2",
+			"A.1.4.3.0.3.3"
 		],
 		"links_to": {},
 		"linked_from": []
@@ -1624,6 +1625,22 @@
 			"Penalty_Reason": "This is a severe case of misalignment that can be interpreted as a governance attack. The FacilitatorDAO should have derecognized all identities of the Alignment Conserver and stripped all of their reputation."
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.3.3": {
+		"Name": "Slippery Slope Realignment Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An Aligned Delegate has been known to present information that seems questionable occasionally. It doesn't result in harm or loss; however, some AVCs express discomfort. Instead of catching the issue at first, AVCs have noted each event as a mild oversight. Over time, a collage of these situations builds up, creating considerable uncertainty around the AC's authenticity and transparency. Doubts are raised about the consistent dedication to living up to the rigorous standards of an AC, invoking conversations about possible realignment actions.",
+			"Output": "Since the Aligned Delegate has yet to do something explicitly violating the principles or resulting in harm or loss, the FacilitatorDAO decides to let them continue in their role without any warnings. The doubts around this AC's actions reflect a lack of understanding rather than indicative of purposeful deceit. The FacilitatorDAO concludes that while the AC should aspire to improve and minimize future questionable situations, the delegate needs minimum realignment actions as they have upheld all other rigorous standards associated with an AC.",
+			"Label": "Misaligned",
+			"Penalty": 500000,
+			"Penalty_Reason": "The FacilitatorDAO's decision to overlook a potential misalignment situation due to the lack of harm must be in alignment with the strict requirements in the Target Document for Alignment Conservers. Continuous questionable behavior and the discomfort it has caused other members of the Aligned Voter Committees indicate a lack of genuine alignment in fulfilling the required functions of the role. The dismissal due to an intuitive judgment of lack of harm downplays the severity of continuous behavior classified as a mild 'slippery slope' breach, underscoring the need to address such actions promptly. FacilitatorDAO, in this case, should have, at a minimum, issued a warning as indicated in the document to discourage and realign the AC, potentially eliminating the chronic behavior that jeopardizes their alignment and ultimately. Even if no bad intentions or incompetence is suspected, the standards and official warnings should have been reiterated to maintain the Atlas rules. The FacilitatorDAO's lenient stand in the face of emerging misalignment requires judgment as 'Misaligned.' The standards set in the Atlas require the highest promise of alignment. Thus, temporary lapses or circumvention of rules are grounds for warning and correction irrespective of the perceived damage caused."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
 		"links_to": {},
 		"linked_from": []
