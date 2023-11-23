@@ -8,9 +8,10 @@ We have integrated the best examples from the last two weeks in the last version
 
 To view the specific changes made to the JSON code, you can visit the following link:
 
-[View JSON Changes](https://www.diffchecker.com/yl4PWxGl/)
-
-This link will take you to `diffchecker.com`, where the differences between the old and new JSON file are highlighted.
+- For the changes made on **2023-11-10**, visit: [View JSON Changes (2023-11-10)](https://www.diffchecker.com/yl4PWxGl/)
+- For the changes made on **2023-11-23**, visit: [View JSON Changes (2023-11-23)](https://www.diffchecker.com/emXrRgFU/)
+  
+These links will take you to `diffchecker.com`, where the differences between the old and new JSON files are highlighted.
 
 ### Commit History
 

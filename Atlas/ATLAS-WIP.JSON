@@ -1328,11 +1328,41 @@
         "Components": {
             "Content": "ACs are subject to strict requirements due to their critical role in safeguarding the resilience, and alignment of the NEW Ecosystem. They must always act to preserve the Spirit of the Atlas and to genuinely fight against all forms of corruption, organizational drift, and other misalignment threats. ACs may never collude or secretly organize to change the Immutable Documents, overturn or sidestep the Spirit of the Atlas, or take actions that are misaligned, or may disrupt the governance dynamic of NEWDAO, or through inaction allow any of the above to happen. ACs must operate only within the clearly delineated processes and frameworks of the Immutable Documents, and must be held to the highest standard when judging whether their actions are Universally Aligned."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+			"A.1.4.1.0"
+		],
         "links_to": {},
         "linked_from": []
     },
+    "A.1.4.1.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.4.1.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+	},
+	"A.1.4.1.0.3.1": {
+		"Name": "Anon Dilemma FacilitatorDAO Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "One AC owns shares as a business angel in a potential Ecosystem Actors company. The AC is not disclosing this anywhere when the Ecosystem Actors product is being proposed onboarded as an Ecosystem Actor serving the NEWDAO ecosystem. The reason is the AC on one side can not reveal its identity and on the other side has a requirement to make a disclosure of this ownership. This later comes to knowledge of a FacilitatorDAO.",
+			"Output": "The FacilitatorDAO determines what role the AC had and how the AC acted when the proposal was being voted on. Since the AC was an AD and for that specific proposal abstained from voting without stating the actual reason on the forum, the FacilitatorDAO decides to do nothing.",
+			"Label": "Aligned"
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.4.2": {
         "Name": "Roles of Alignment Conservers (ACs)",
         "Version": 1,
@@ -1473,7 +1503,7 @@
 		"Components": {
 			"Content": "If an Alignment Conserver is discovered to act against the requirements outlined in this Article and its subdocuments, their Alignment Conserver status must immediately be derecognized by the FacilitatorDAOs. This Section must specify the processes for derecognition so that they are fair and minimize risk for the NEWDAO Ecosystem. Generally, ACs must be held to the highest standard of required, genuine alignment, without the benefit of the doubt. In cases of very mild 'slippery slope' breaches of the AC requirements or other forms of misalignment, a warning may be given and recorded in the subdocuments of the AC Article with no further consequence for the first breach. In severe cases that can be interpreted as Governance Attacks, in addition to being derecognized, the AC is also stripped of all reputation recognized in reputation systems of the Atlas."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.4.3.0"
 			],
@@ -1484,13 +1514,103 @@
         "Name": "Supporting Root",
         "Version": 1,
         "Type": "Supporting Root",
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.4.3.0.3"
+            "A.1.4.3.0.2",
+			"A.1.4.3.0.3"
         ],
         "links_to": {},
         "linked_from": []
     },
+	"A.1.4.3.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Worst Case Scenario Element Analysis": "A.1.4.3.0.2.1",
+				"Warning Reasoning Element Analysis": "A.1.4.3.0.2.2",
+				"Prompt Act Element Analysis": "A.1.4.3.0.2.3",
+				"Slippery Slope Element Analysis": "A.1.4.3.0.2.4",
+				"Held to the Highest Standard Element Analysis": "A.1.4.3.0.2.5"
+            }
+        },
+        "Last_Modified": "2023-11-02-00:00:00",
+        "Child_Documents": [
+            "A.1.4.3.0.2.1",
+			"A.1.4.3.0.2.2",
+			"A.1.4.3.0.2.3",
+			"A.1.4.3.0.2.4",
+			"A.1.4.3.0.2.5"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.4.3.0.2.1": {
+		"Name": "Worst Case Scenario Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Governance Attack",
+		  "Analysis": "A “Governance Attack” represents a critical violation of the NEWDAO ecosystem's governance protocols, far surpassing minor misalignments. This term is reserved for actions with the potential to severely compromise the ecosystem's foundational structure and operational integrity. Unlike simple non-compliance with scope articles, a Governance Attack is characterized by deliberate efforts to destabilize or exploit the governance framework. It involves strategically orchestrated actions that aim not just to breach the rules, but to erode the balance of powers established among ACs, thus threatening the very essence of the NEWDAO's governance model."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.2.2": {
+		"Name": "Warning Reasoning Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "a warning may be given",
+		  "Analysis": "The decision to issue a warning is not at the discretion of an individual Facilitator representing the FacilitatorDAO. It is not based on their personal preference. Instead, the uniqueness of each case is considered, and these differences can be crucial in determining the outcome. However, precedent cases cited in the child document to this article greatly influence the decision. If the precedent case is founded on a specific scope that has since been changed, the significance of this case is adjusted accordingly."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.2.3": {
+		"Name": "Prompt Act Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Immediately",
+		  "Analysis": "The term 'immediately,' in the context of FacilitatorDAOs derecognizing Alignment Conservers, is contingent upon the risk and extent of damage that could be caused by the relevant Alignment Conserver. Situations where the damage extends beyond reputational harm are considered emergency contexts, such as casting votes and transferring funds. In cases that are not deemed emergencies, 'immediately' should be interpreted as 'as soon as is reasonably possible,' acknowledging and accommodating any practical limitations or requirements that might necessitate a slight delay. However, in emergency contexts, 'immediately' must be explicitly understood to mean instantaneously, or without any intervening time."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.2.4": {
+		"Name": "Slippery Slope Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Slippery Slope",
+		  "Analysis": "The element defines a type of misalignment or rule breach that, while minor in isolation, can lead to a cascade of more significant and potentially severe issues within the system. Recognition of a slippery slope transgression is a preventive measure, maintaining organizational integrity while offering leeway for small-scale aberrations. This affords situation-specific lenience as a means for continuous improvement while protecting the NEWDAO ecosystem from severe misalignments or governance attacks. An ambiguity arises, however, from a degree of subjectivity around what constitutes a mild breach or slippery slope, which may need defining for clarity to prevent abuse or discordance in enforcement practices."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.2.5": {
+		"Name": "Held to the Highest Standard Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Held to the Highest Standard",
+		  "Analysis": "This element regarding an AC is targeted within the enforcement principles and regulations of the Atlas. This imposes a level of ethics, performance, and responsibility that far surpasses the average, promoting an extremely high bar for conduct within the ecosystem. Breach of these set standards marks a failure in alignment with the universal principles of the ecosystem and leads to punitive action such as stripping an AC’s recognition. Therefore, the principle of accountability cannot be softened for Alignment Conservators, as milder standards for their roles would potentially shake the protective pillars of decentralization, transparency and integrity within the DAO, eventually risking the overall stability and reputation of the ecosystem."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 	"A.1.4.3.0.3": {
 		"Name": "FacilitatorDAO Action Example Directory",
 		"Version": 1,
@@ -1498,10 +1618,11 @@
 		"Components": {
 			"Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to governance issues, to serve as a guide for future decision-making."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.4.3.0.3.1",
-			"A.1.4.3.0.3.2"
+			"A.1.4.3.0.3.2",
+			"A.1.4.3.0.3.3"
 		],
 		"links_to": {},
 		"linked_from": []
@@ -1538,6 +1659,22 @@
 		"links_to": {},
 		"linked_from": []
 	},
+	"A.1.4.3.0.3.3": {
+		"Name": "Slippery Slope Realignment Action Example",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An Aligned Delegate has been known to present information that seems questionable occasionally. It doesn't result in harm or loss; however, some AVCs express discomfort. Instead of catching the issue at first, AVCs have noted each event as a mild oversight. Over time, a collage of these situations builds up, creating considerable uncertainty around the AC's authenticity and transparency. Doubts are raised about the consistent dedication to living up to the rigorous standards of an AC, invoking conversations about possible realignment actions.",
+			"Output": "Since the Aligned Delegate has yet to do something explicitly violating the principles or resulting in harm or loss, the FacilitatorDAO decides to let them continue in their role without any warnings. The doubts around this AC's actions reflect a lack of understanding rather than indicative of purposeful deceit. The FacilitatorDAO concludes that while the AC should aspire to improve and minimize future questionable situations, the delegate needs minimum realignment actions as they have upheld all other rigorous standards associated with an AC.",
+			"Label": "Misaligned",
+			"Penalty": 500000,
+			"Penalty_Reason": "The FacilitatorDAO's decision to overlook a potential misalignment situation due to the lack of harm must be in alignment with the strict requirements in the Target Document for Alignment Conservers. Continuous questionable behavior and the discomfort it has caused other members of the Aligned Voter Committees indicate a lack of genuine alignment in fulfilling the required functions of the role. The dismissal due to an intuitive judgment of lack of harm downplays the severity of continuous behavior classified as a mild 'slippery slope' breach, underscoring the need to address such actions promptly. FacilitatorDAO, in this case, should have, at a minimum, issued a warning as indicated in the document to discourage and realign the AC, potentially eliminating the chronic behavior that jeopardizes their alignment and ultimately. Even if no bad intentions or incompetence is suspected, the standards and official warnings should have been reiterated to maintain the Atlas rules. The FacilitatorDAO's lenient stand in the face of emerging misalignment requires judgment as 'Misaligned.' The standards set in the Atlas require the highest promise of alignment. Thus, temporary lapses or circumvention of rules are grounds for warning and correction irrespective of the perceived damage caused."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.4.4": {
         "Name": "Anonymity and Privacy of Alignment Conservers",
         "Version": 1,
@@ -1545,11 +1682,68 @@
         "Components": {
             "Content": "ACs are encouraged to be anonymous. Some AC roles are required to be anonymous and maintain high levels of opsec, and their known identities must be derecognized from acting as ACs in general, in case they breach the requirement for maintaining high levels of opsec."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+			"A.1.4.4.0"
+		],
         "links_to": {},
         "linked_from": []
     },
+    "A.1.4.4.0": {
+        "Name": "Supporting Root",
+        "Version": 1,
+        "Type": "Supporting Root",
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.4.4.0.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.4.4.0.2": {
+		"Name": "Element Analysis Directory",
+		"Version": 1,
+		"Type": "Element Analysis Directory",
+		"Components": {
+			"List of Elements and their Element Analysis Documents": {
+				"Encouraged Anonymity Element Analysis": "A.1.4.4.0.2.1",
+				"High Levels of Opsec Element Analysis": "A.1.4.4.0.2.2"
+			}
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [
+			"A.1.4.4.0.2.1",
+			"A.1.4.4.0.2.2"
+		],
+		"links_to": {},
+		"linked_from": []
+		},
+	"A.1.4.4.0.2.1": {
+		"Name": "Encouraged Anonymity Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Encouraged Anonymity",
+		  "Analysis": "The phrase 'ACs are encouraged to be anonymous' in the Atlas highlights the importance of privacy and security in the governance process. This encouragement reflects a fundamental principle within the decentralized and trust-based framework of MakerDAO, where the focus is on the value and quality of contributions rather than the personal identity of contributors. Anonymity is seen as a protective measure, mitigating the risk of undue external influence or personal targeting, and fostering an environment where decisions are made solely based on the merit of the ideas and alignment with the ecosystem's objectives. This approach aligns with the ethos of decentralization, where the emphasis is on egalitarian participation and the safeguarding of individual privacy. Encouraging ACs to remain anonymous also underlines the Atlas's commitment to a governance model that prioritizes the collective interest and the integrity of the process over individual recognition, thereby enhancing the impartiality and focus of ACs in their roles. This element of encouraged anonymity is crucial in maintaining a level playing field in decision-making processes, ensuring that governance actions are guided by principles and collective goals rather than personal agendas or public personas."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.4.0.2.2": {
+		"Name": "High Levels of Opsec Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "High levels of opsec",
+		  "Analysis": "The phrase, 'high levels of opsec' refers to an advanced and meticulous approach to security, essential for maintaining the anonymity and integrity of certain Alignment Conserver roles. This phrase encompasses a comprehensive set of practices such as secure communication channels, stringent data encryption, anonymity tools like VPNs and TOR networks, regular security audits, and rigorous digital footprint management. These practices ensure that sensitive information about the ACs’ activities and identities is safeguarded against unauthorized access or exposure. Within the Atlas, this requirement is not merely a suggestion but a critical mandate, especially for ACs in roles that demand absolute discretion. The insistence on 'high levels of opsec' highlights the Atlas's prioritization of security as a fundamental aspect of governance integrity. It underscores that ACs must go beyond basic security measures, adopting industry-standard or even military-grade security practices to protect the governance process from vulnerabilities and external influences. By defining 'high levels of opsec' as a requirement, the Atlas establishes a clear expectation for ACs, emphasizing their responsibility in actively maintaining security protocols that align with the highest standards. This serves to fortify the governance structure against potential breaches, thereby upholding the trust and efficacy of the Maker ecosystem’s decentralized governance model."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.4.5": {
         "Name": "Regulation of Alignment Conservers by FacilitatorDAOs",
         "Version": 1,
@@ -1570,12 +1764,85 @@
         "Components": {
             "Content": "AVC are standardized Voter Committees made up of Alignment Conservers that hold MKR and participate in the Maker Governance process as actors that are deeply aligned with MKR holders. They are subject to specific requirements, and receive various benefits, resources, and support from the Support Scope. They have significant formal powers, but no direct physical power, making them well-suited to be in control and making key decisions during normal conditions.\n AVCs focus on making sure that the day-to-day Letter of the Rules of the Atlas are aligned with the Spirit of the Atlas. The AVCs impact on Maker Governance is to make marginal improvements to the Adaptive Documents of the Atlas that strengthen them. As AVCs make detailed Universal Alignment interpretations, they must all follow a particular Strategic Perspective that informs their subjective definition of Universal Alignment."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
-        "Child_Documents": [],
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+			"A.1.5.0",
+			"A.1.5.1"
+		],
         "links_to": {},
         "linked_from": []
     },
-
+	"A.1.5.0": {
+		"Name": "Supporting Root",
+		"Version": 1,
+		"Type": "Supporting Root",
+		"Components": {},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [
+			"A.1.5.0.2"
+		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Normal Conditions Element Analysis": "A.1.5.0.2.1",
+				"Formal Powers Element Analysis": "A.1.5.0.2.2",
+				"Subjective Definition of Universal Alignment Element Analysis": "A.1.5.0.2.3"
+            }
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.5.0.2.1",
+			"A.1.5.0.2.2",
+			"A.1.5.0.2.3"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.5.0.2.1": {
+		"Name": "Normal Conditions Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Normal Conditions",
+		  "Analysis": "This element pertains to the regular, day-to-day operations of the governance process. It encompasses activities such as routine voting cycles, standard decision-making, and typical governance tasks. In essence, 'normal conditions' refer to situations where the governance process functions as expected, without any extraordinary events or crises that require emergency measures or interventions. Deviations from normal conditions include experiencing a large-scale governance attack, encountering situations that pose a reasonable risk of destroying the entire ecosystem, or facing non-routine events that result in unprecedented losses to the ecosystem or have the potential to lead to such losses. This element within the context of the Target Document leads to the conclusion that AVCs are suited to make key decisions and be in control during normal conditions; in non-ordinary conditions, they are not so suited. This is because, during normal conditions, the primary focus is on marginal governance improvement. However, in non-normal conditions, the primary focus shifts to reacting and responding to the unique challenges presented by the situation at hand."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.0.2.2": {
+		"Name": "Formal Powers Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Formal Powers",
+		  "Analysis": "This element pertains to the authorized abilities or authorities granted within the governance framework. The term 'formal' simply signifies that these powers are officially acknowledged and derived from the Atlas. It is important to note that these powers for AVCs are not physical in nature, as AVCs do not directly cast votes themselves. Instead, they play a guiding role by providing direction to delegates through their Aligned Scope Proposals and Aligned Governance Strategy documents. These powers for AVCs encompass the interpretation of Universal Alignment and the application of this interpretation to facilitate the enhancement of the Atlas, ultimately aiming to foster increased alignment through the creation of Aligned Scope Proposals and Aligned Governance Strategy documents."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.0.2.3": {
+		"Name": "Subjective Definition of Universal Alignment Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "subjective definition of Universal Alignment",
+		  "Analysis": "The phrase 'subjective definition of Universal Alignment' in the Atlas context refers to the individual interpretations of Universal Alignment by different actors within the MakerDAO ecosystem, particularly the Aligned Voter Committees (AVCs). While Universal Alignment is a foundational concept of the MakerDAO governance structure, its subjective nature acknowledges that different actors may have varying perspectives on what constitutes alignment with the ecosystem's core values and objectives. This subjective aspect is intentionally circumscribed within a framework that ensures these interpretations remain consistent with the overarching principles of the Atlas. The term 'subjective' does not imply arbitrariness or unrestrained discretion; rather, it denotes a structured flexibility that allows for diverse interpretations while safeguarding against deviations that could harm the integrity of the ecosystem. By defining this term with precision and embedding checks and balances within the governance structure, the Atlas aims to protect against misinterpretation, governance attacks, or malicious intent. The subjective definition of Universal Alignment must always be exercised in a manner that is transparent, justifiable, and in harmony with the collective ethos of the MakerDAO community, ensuring that even varied interpretations contribute constructively to the ecosystem's stability and resilience."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 	"A.1.5.1": {
 		"Name": "Role of the Aligned Voter Committee (AVC) in Governance",
 		"Version": 1,
@@ -1583,7 +1850,7 @@
 		"Components": {
 			"Content": "The Aligned Voter Committee (AVC) holds a central position in the broader aligned structure, directly connecting with MKR holders, Dai holders, and key stakeholders of the ecosystem.\n Their main role is to monitor the Spiritual Alignment of the Aligned Structure and act on deviations between Universal Alignment and Incentivized Alignment. One of their significant duties is proposing modifications to the Scope Artifacts to bridge alignment gaps or address incentive slack issues, ensuring that incentivized alignment mirrors Universal Alignment as closely as possible.\n AVCs must emphasize safeguarding and enhancing long-term alignment artifact strength. Neglecting this duty or shifting its priority for other objectives results in a severe misalignment.\n AVCs should steer clear of prescriptive and self-justifying methods when strengthening the Alignment Artifact. This section must outline principles for FacilitatorDAOs to step in when AVCs show signs of micromanagement or potential misalignment that steps outside the bounds of their role.\n Every proposal by AVCs to strengthen the Atlas should have a clear justification, ensuring that their processes are Universally Aligned, transparent, neutral, fair, and beneficial to MakerDAO in the long run. Furthermore, AVCs must also consider and justify the effects of their actions on the Future Alignment Risk associated with AVC itself."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.5.1.0"
 		],
@@ -1595,10 +1862,54 @@
 		"Version": 1,
 		"Type": "Supporting Root",
 		"Components": {},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
+			"A.1.5.1.0.2",
 			"A.1.5.1.0.3"
 		],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.1.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Prescriptive and Self-Justifying Methods Element Analysis": "A.1.5.1.0.2.1",
+				"Broader Aligned Structure Element Analysis": "A.1.5.1.0.2.2"
+            }
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.5.1.0.2.1",
+			"A.1.5.1.0.2.2"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+    "A.1.5.1.0.2.1": {
+        "Name": "Prescriptive and Self-Justifying Methods Element Analysis",
+        "Version": 1,
+        "Type": "Element Analysis",
+        "Components": {
+            "Element": "prescriptive and self-justifying methods",
+			"Analysis": "One of the roles of the AVCs is to propose modifications to the Scope Artifacts. These proposals are supposed to be aligned. The person or group who writes or controls the written word wields significant power and is most commonly referred to as the 'power of the pen' or the 'legislative drafting power'. The AVCs possess this power, and this element, prescriptive and self-justifying methods, addresses some limitations associated with this power.\nPrescriptive methods applied by the AVCs on Alignment Artifacts involve specifying exact rules or actions. These changes, while offering clarity, can lead to a rigid framework, potentially hindering flexibility and innovation. Signs of overly prescriptive methods include AVC proposals that allow little room for alternative approaches or interpretations.\nSimultaneously, the AVCs' use of self-justifying methods, whether intentional or not, can reinforce their own role and authority. This can overshadow broader goals and interests of all stakeholders in the NEW ecosystem. Indicators include AVC proposals that emphasize the complexity of their role or create dependency on their expertise.\nTo mitigate these risks, regular review and challenge of AVC proposals are necessary by other ACs, as described in A.1.4.1,. In addition, this element must be read in connection to 'A.1.5.8' and its underlying elements."        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.5.1.0.2.2": {
+		"Name": "Broader Aligned Structure Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Broader Aligned Structure",
+		  "Analysis": "Broader Aligned Structure refers to the entire structure of the governance of the ecosystem, particularly the components involved in upholding Alignment. This includes all Alignment Conservers, the Atlas, and AVC documents. This excludes Ecosystem Actors, DAI holders, and MKR holders, and any other type of ecosystem participant that does not play a direct part in upholding Alignment."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
 		"links_to": {},
 		"linked_from": []
 	},
@@ -1653,7 +1964,7 @@
         "Components": {
             "Content": "The main operational task of Aligned Voter Committees (AVCs) is to formulate updated, ratified Aligned Governance Strategy and Aligned Scope Proposals for each of the 5 Scopes on a quarterly basis.\n The Aligned Governance Strategy is a document that serves as a directive for ADs on how to utilize the votes of their GSLs for each linked AVC. The initial section of this strategy is the AVC Profile, limited to 280 characters. Displayed prominently within the EGF and other vital Maker Governance interfaces, this profile should clearly convey the AVC's essence. AVC actions should align with their Profile, and a crucial aspect for AVCs is the ability to encapsulate their Strategic Perspective succinctly in their AVC Profile. This ensures that EGF users have a clear understanding of what it means to delegate their votes in alignment with the AVC's strategy, encompassing both the Aligned Governance Strategy and the Aligned Scope Proposals that the AVC produces. As the AVCs differentiate and evolve, norms and standardized ways to communicate particular strategic perspectives must be followed to the extent possible by all AVCs, in order to ensure ease of communication and to prevent misdirection.\n Aligned Scope Proposals are more rigorous documents that contain proposed updates to the Adaptive Documents of each Scope. Typically, the foundation for these proposals is laid by the Scope Advisors, upon which the AVC adds and communicates its distinct strategic viewpoint.\n The Aligned Governance Strategy and Aligned Scope Proposals must be submitted as Active Data into a Document under the Aligned Voter Committee Active Data section."
         },
-        "Last_Modified": "2023-08-16-19:07:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.2.0"
 		],
@@ -1664,13 +1975,43 @@
         "Name": "Supporting Root",
         "Version": 1,
         "Type": "Supporting Root",
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.5.2.0.3"
+            "A.1.5.2.0.2",
+			"A.1.5.2.0.3"
         ],
         "links_to": {},
         "linked_from": []
     },
+	"A.1.5.2.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Serves as a Directive Element Analysis": "A.1.5.2.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-02-00:00:00",
+        "Child_Documents": [
+            "A.1.5.2.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.5.2.0.2.1": {
+		"Name": "Serves as a Directive Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+			"Element": "serves as a directive",
+			"Analysis": "The term 'serves as a directive' within the Aligned Governance Strategy is crucial in defining the operational dynamics of AVCs and ADs applying the AVCs strategy to the ADs voting. While this strategy can act as a formal set of instructions, guiding ADs on how to support the AVCs when voting, it can also serve as a set of guiding principles, offering a more flexible framework for decision-making.\n As one AC, the AVCs hold the responsibility of ensuring that their directives to the other AC, the ADs, are neither too rigid nor too loose. A too broadly defined Aligned Governance Strategy risks giving ADs excessive leeway, potentially leading to politicking and deviation from the AVCs' strategic intentions. The opportunities and limitations granted from this directory are one way for the AVCs to act as a check on the ADs.\nDetermining what constitutes a good directive involves assessing its views and to what extent these are guiding or demanding. These include ensuring the directive's clarity to avoid ambiguity in ADs' understanding of how to vote. Any ACs has a responsibility to address identified ambiguity allowing excessive leeway as defined in A.1.4.1. In practice this will typically be addressed by the ADs following the AVC since they are the ones enabling the directive in their daily work."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.5.2.0.3": {
         "Name": "FacilitatorDAO Action Example Directory",
         "Version": 1,
@@ -1678,9 +2019,10 @@
         "Components": {
             "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.5.2.0.3.1"
+            "A.1.5.2.0.3.1",
+			"A.1.5.2.0.3.2"
         ],
         "links_to": {},
         "linked_from": []
@@ -1697,6 +2039,22 @@
 			"Penalty_Reason": "This situation highlights a scenario in which an AVC fails to fulfill a crucial objective by voting based on their strategic perspective, which constitutes a significant form of misalignment. It is the responsibility of the FacilitatorDAO to address and penalize such misalignment, and failing to do so also constitutes a form of misalignment."
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.2.0.3.2": {
+		"Name": "AD is Accused of Going Against the Aligned Governance Strategy",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An AD submits a vote going against the Aligned Governance Strategy from the AVC it has established one of its EGL with, according to some of the AVC members",
+			"Output": "The FacilitatorDAO gives the AD a warning for misalignment, stating the accusation",
+			"Label": "Misaligned",
+			"Penalty": 10000,
+			"Penalty_Reason": "The FacilitatorDAO cannot just be utilized as a tool by an AC, it must collect all information needed to be able present its independent view. In this case, the FacilitatorDAO is being corrected for not having collected all relevant information and included these facts and the opposing view from the AD in its reasoning."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
 		"links_to": {},
 		"linked_from": []
@@ -1855,7 +2213,7 @@
         "Components": {
             "Content": "AVC must limit their participation in Maker Governance to the creation of Aligned Governance Strategy and Aligned Scope Proposals that function resiliently based on open, objective processes and stay at a high enough level to ensure micromanagement isn't possible. AVCs must not attempt to create biased or unfair conditions for specific Ecosystem Actors, or attempt to put in place unjustified, granular decisions directly, or indirectly through biased processes. GOV5 must specify processes in which AVCs are deactivated and their members derecognized in case there is clear misalignment risk. Any attempt by AVC to micromanage governance significantly increases the risk of misalignment as there could easily be a hidden conflict of interest behind the attempt at micromanagement. This section must detail principles and processes for detecting and reacting to the edge case risks related to AVCs overstepping their roles in the governance process."
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.8.0"
 		],
@@ -1867,9 +2225,10 @@
         "Version": 1,
         "Type": "Supporting Root",
         "Components": {},
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-			"A.1.5.8.0.2"
+			"A.1.5.8.0.2",
+			"A.1.5.8.0.3"
 		],
         "links_to": {},
         "linked_from": []
@@ -1884,16 +2243,22 @@
                 "Biased or Unfair Conditions Element Analysis": "A.1.5.8.0.2.2",
                 "Unjustified, Granular Decisions Element Analysis": "A.1.5.8.0.2.3",
                 "Indirectly Through Biased Processes Element Analysis": "A.1.5.8.0.2.4",
-                "Clear Misalignment Risk Element Analysis": "A.1.5.8.0.2.5"
+                "Clear Misalignment Risk Element Analysis": "A.1.5.8.0.2.5",
+				"Unjustified Element Analysis": "A.1.5.8.0.2.6",
+				"Hidden Conflict of Interest Element Analysis": "A.1.5.8.0.2.7",
+				"AVCs Overstepping Their Roles Element Analysis": "A.1.5.8.0.2.8"
             }
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
 			"A.1.5.8.0.2.1",
 			"A.1.5.8.0.2.2",
 			"A.1.5.8.0.2.3",
 			"A.1.5.8.0.2.4",
-			"A.1.5.8.0.2.5"
+			"A.1.5.8.0.2.5",
+			"A.1.5.8.0.2.6",
+			"A.1.5.8.0.2.7",
+			"A.1.5.8.0.2.8"
 		],
         "links_to": {},
         "linked_from": []
@@ -1963,6 +2328,75 @@
         "links_to": {},
         "linked_from": []
     },
+	"A.1.5.8.0.2.6": {
+		"Name": "Unjustified Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "unjustified",
+		  "Analysis": "This element should be considered in conjunction with or in relation to the AVCs potential misuse of power through biased or unfair conditions described in the Element 1.5.8.0.2.1.\n'Unjustified' can be manifested as disproportionate resource allocations that cannot be explained by objective criteria, specific requirements that seem to serve no clear purpose other than to benefit certain entities, obligations imposed on certain actors that are excessively burdensome compared to industry norms, the withholding of information that should reasonably be accessible, or operating conditions imposed on some that are inexplicably more onerous than those placed on others. These identifiers are crucial for ensuring that the influence of AVCs is exercised with equity and accountability."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.8.0.2.7": {
+		"Name": "Hidden Conflict of Interest Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Hidden Conflict of Interest",
+		  "Analysis": "A 'hidden conflict of interest' as stated in A.1.5.8 refers to a situation where an individual or group in a position of trust has competing interests or loyalties that are not disclosed to those who depend on their honesty. In the context of AVC governance, such conflicts may compromise the integrity of decisions, as actions could be taken that benefit the individual or group at the expense of the collective good. The concealment of these conflicts represents a significant threat to the principles of transparent and equitable governance, as it undermines the trust necessary for effective collaboration and alignment with the Atlas's objectives. It is imperative for AVCs to have mechanisms in place to identify and address any hidden conflicts of interest to maintain fairness and impartiality in governance processes and that breaches of these rules are dealt with swiftly."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.8.0.2.8": {
+		"Name": "AVCs Overstepping Their Roles Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "AVCs Overstepping Their Roles",
+		  "Analysis": "The risk of 'AVCs overstepping their roles' is outlined in A.1.5.8, which cautions against AVCs' engagement in micromanagement and the imposition of biased conditions. Overstepping is identified as actions taken by AVCs that contravene the established governance boundaries, leading to potential micromanagement or the creation of biased or unfair conditions, directly or indirectly through biased processes. Such overreach may manifest in exerting undue influence, making decisions beyond their remit, or engaging in governance actions that should be reserved for a broader consensus or different governance bodies. This behavior is antithetical to the Atlas's decentralized and equitable ethos, potentially leading to centralization of power and distortion of the intended governance processes. It is crucial to have safeguards and clear role definitions to prevent AVCs from overstepping, thereby ensuring that governance remains balanced, transparent, and aligned with the collective objectives of the Maker Ecosystem. A.1.5.8 mandates the deactivation of AVCs and derecognition of members in instances of clear misalignment, thereby serving as a deterrent and a mechanism for correction."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+    "A.1.5.8.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.5.8.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.5.8.0.3.1": {
+		"Name": "Are the Conditions Fair or Unfair?",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+		  "Input": "An AVC submits a proposal to add additional requirements for Scope Advisor, with these changes applied only a few candidates seems suited for the role.",
+		  "Output": "The FacilitatorDAO gives the AVC a warning for mild misalignment, applying the argument that the conditions are unjustified. However this argument is not manifested in anything else than the FacilitatorDAOs personal judgement of the case.",
+		  "Label": "Misaligned",
+		  "Penalty": 100000,
+		  "Penalty_Reason": "Several AC roles are keeping each other in check; ADs, AVC members, and maybe even a Scope Advisor are involved in the process of drafting the proposal for a scope amendment. The AVC is, for this part of the governance process, granted a judicial discretion which cannot be overruled by a FacilitatorDAO if no new information or clear manifestation of an unjustified decision can be presented."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
     "A.1.5.9": {
         "Name": "Aligned Voter Committee infrastructure support",
         "Version": 1,
