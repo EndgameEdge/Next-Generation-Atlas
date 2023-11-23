@@ -1499,13 +1499,15 @@
         "Components": {
             "List of Elements and their Element Analysis Documents": {
                 "Worst Case Scenario Element Analysis": "A.1.4.3.0.2.1",
-				"Warning Reasoning Element Analysis": "A.1.4.3.0.2.2"
+				"Warning Reasoning Element Analysis": "A.1.4.3.0.2.2",
+				"Prompt Act Element Analysis": "A.1.4.3.0.2.3"
             }
         },
         "Last_Modified": "2023-11-02-00:00:00",
         "Child_Documents": [
             "A.1.4.3.0.2.1",
-			"A.1.4.3.0.2.2"
+			"A.1.4.3.0.2.2",
+			"A.1.4.3.0.2.3"
         ],
         "links_to": {},
         "linked_from": []
@@ -1530,6 +1532,19 @@
 		"Components": {
 		  "Element": "a warning may be given",
 		  "Analysis": "The decision to issue a warning is not at the discretion of an individual Facilitator representing the FacilitatorDAO. It is not based on their personal preference. Instead, the uniqueness of each case is considered, and these differences can be crucial in determining the outcome. However, precedent cases cited in the child document to this article greatly influence the decision. If the precedent case is founded on a specific scope that has since been changed, the significance of this case is adjusted accordingly."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.4.3.0.2.3": {
+		"Name": "Prompt Act Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Immediately",
+		  "Analysis": "The term 'immediately,' in the context of FacilitatorDAOs derecognizing Alignment Conservers, is contingent upon the risk and extent of damage that could be caused by the relevant Alignment Conserver. Situations where the damage extends beyond reputational harm are considered emergency contexts, such as casting votes and transferring funds. In cases that are not deemed emergencies, 'immediately' should be interpreted as 'as soon as is reasonably possible,' acknowledging and accommodating any practical limitations or requirements that might necessitate a slight delay. However, in emergency contexts, 'immediately' must be explicitly understood to mean instantaneously, or without any intervening time."
 		},
 		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
