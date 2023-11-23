@@ -1972,9 +1972,10 @@
         "Components": {
             "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
         },
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.5.2.0.3.1"
+            "A.1.5.2.0.3.1",
+			"A.1.5.2.0.3.2"
         ],
         "links_to": {},
         "linked_from": []
@@ -1991,6 +1992,22 @@
 			"Penalty_Reason": "This situation highlights a scenario in which an AVC fails to fulfill a crucial objective by voting based on their strategic perspective, which constitutes a significant form of misalignment. It is the responsibility of the FacilitatorDAO to address and penalize such misalignment, and failing to do so also constitutes a form of misalignment."
 		},
 		"Last_Modified": "2023-11-09-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.2.0.3.2": {
+		"Name": "AD is Accused of Going Against the Aligned Governance Strategy",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+			"Input": "An AD submits a vote going against the Aligned Governance Strategy from the AVC it has established one of its EGL with, according to some of the AVC members",
+			"Output": "The FacilitatorDAO gives the AD a warning for misalignment, stating the accusation",
+			"Label": "Misaligned",
+			"Penalty": 10000,
+			"Penalty_Reason": "The FacilitatorDAO cannot just be utilized as a tool by an AC, it must collect all information needed to be able present its independent view. In this case, the FacilitatorDAO is being corrected for not having collected all relevant information and included these facts and the opposing view from the AD in its reasoning."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
 		"links_to": {},
 		"linked_from": []
