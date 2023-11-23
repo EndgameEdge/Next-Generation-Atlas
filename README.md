@@ -17,7 +17,7 @@ These links will take you to `diffchecker.com`, where the differences between th
 
 For a more granular view of each individual addition and modification, check out the commit history on our GitHub repository:
 
-[View Commit History](https://github.com/EndgameEdge/Next-Generation-Atlas/commits/main)
+[View Commit History](https://github.com/EndgameEdge/Next-Generation-Atlas/commits/main/Atlas/ATLAS-WIP.JSON)
 
 Each commit details the name of the Example and the author.
 
