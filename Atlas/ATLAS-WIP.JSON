@@ -1473,7 +1473,7 @@
 		"Components": {
 			"Content": "If an Alignment Conserver is discovered to act against the requirements outlined in this Article and its subdocuments, their Alignment Conserver status must immediately be derecognized by the FacilitatorDAOs. This Section must specify the processes for derecognition so that they are fair and minimize risk for the NEWDAO Ecosystem. Generally, ACs must be held to the highest standard of required, genuine alignment, without the benefit of the doubt. In cases of very mild 'slippery slope' breaches of the AC requirements or other forms of misalignment, a warning may be given and recorded in the subdocuments of the AC Article with no further consequence for the first breach. In severe cases that can be interpreted as Governance Attacks, in addition to being derecognized, the AC is also stripped of all reputation recognized in reputation systems of the Atlas."
 		},
-		"Last_Modified": "2023-11-09-00:00:00",
+		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [
 			"A.1.4.3.0"
 			],
@@ -1484,13 +1484,43 @@
         "Name": "Supporting Root",
         "Version": 1,
         "Type": "Supporting Root",
-        "Last_Modified": "2023-11-09-00:00:00",
+        "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.4.3.0.3"
+            "A.1.4.3.0.2",
+			"A.1.4.3.0.3"
         ],
         "links_to": {},
         "linked_from": []
     },
+	"A.1.4.3.0.2": {
+        "Name": "Element Analysis Directory",
+        "Version": 1,
+        "Type": "Element Analysis Directory",
+        "Components": {
+            "List of Elements and their Element Analysis Documents": {
+                "Worst Case Scenario Element Analysis": "A.1.4.3.0.2.1"
+            }
+        },
+        "Last_Modified": "2023-11-02-00:00:00",
+        "Child_Documents": [
+            "A.1.4.3.0.2.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.4.3.0.2.1": {
+		"Name": "Worst Case Scenario Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Governance Attack",
+		  "Analysis": "A “Governance Attack” represents a critical violation of the NEWDAO ecosystem's governance protocols, far surpassing minor misalignments. This term is reserved for actions with the potential to severely compromise the ecosystem's foundational structure and operational integrity. Unlike simple non-compliance with scope articles, a Governance Attack is characterized by deliberate efforts to destabilize or exploit the governance framework. It involves strategically orchestrated actions that aim not just to breach the rules, but to erode the balance of powers established among ACs, thus threatening the very essence of the NEWDAO's governance model."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 	"A.1.4.3.0.3": {
 		"Name": "FacilitatorDAO Action Example Directory",
 		"Version": 1,
