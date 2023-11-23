@@ -2163,7 +2163,8 @@
         "Components": {},
         "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-			"A.1.5.8.0.2"
+			"A.1.5.8.0.2",
+			"A.1.5.8.0.3"
 		],
         "links_to": {},
         "linked_from": []
@@ -2296,6 +2297,36 @@
 		"Components": {
 		  "Element": "AVCs Overstepping Their Roles",
 		  "Analysis": "The risk of 'AVCs overstepping their roles' is outlined in A.1.5.8, which cautions against AVCs' engagement in micromanagement and the imposition of biased conditions. Overstepping is identified as actions taken by AVCs that contravene the established governance boundaries, leading to potential micromanagement or the creation of biased or unfair conditions, directly or indirectly through biased processes. Such overreach may manifest in exerting undue influence, making decisions beyond their remit, or engaging in governance actions that should be reserved for a broader consensus or different governance bodies. This behavior is antithetical to the Atlas's decentralized and equitable ethos, potentially leading to centralization of power and distortion of the intended governance processes. It is crucial to have safeguards and clear role definitions to prevent AVCs from overstepping, thereby ensuring that governance remains balanced, transparent, and aligned with the collective objectives of the Maker Ecosystem. A.1.5.8 mandates the deactivation of AVCs and derecognition of members in instances of clear misalignment, thereby serving as a deterrent and a mechanism for correction."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+    "A.1.5.8.0.3": {
+        "Name": "FacilitatorDAO Action Example Directory",
+        "Version": 1,
+        "Type": "FacilitatorDAO Action Example Directory",
+        "Components": {
+            "Directory overview": "This directory contains examples of hypothetical FacilitatorDAO actions in response to AVC governance issues, to serve as a guide for future decision-making."
+        },
+        "Last_Modified": "2023-11-22-00:00:00",
+        "Child_Documents": [
+            "A.1.5.8.0.3.1"
+        ],
+        "links_to": {},
+        "linked_from": []
+    },
+	"A.1.5.8.0.3.1": {
+		"Name": "Are the Conditions Fair or Unfair?",
+		"Version": 1,
+		"Type": "FacilitatorDAO Action Example",
+		"Components": {
+		  "Input": "An AVC submits a proposal to add additional requirements for Scope Advisor, with these changes applied only a few candidates seems suited for the role.",
+		  "Output": "The FacilitatorDAO gives the AVC a warning for mild misalignment, applying the argument that the conditions are unjustified. However this argument is not manifested in anything else than the FacilitatorDAOs personal judgement of the case.",
+		  "Label": "Misaligned",
+		  "Penalty": 100000,
+		  "Penalty_Reason": "Several AC roles are keeping each other in check; ADs, AVC members, and maybe even a Scope Advisor are involved in the process of drafting the proposal for a scope amendment. The AVC is, for this part of the governance process, granted a judicial discretion which cannot be overruled by a FacilitatorDAO if no new information or clear manifestation of an unjustified decision can be presented."
 		},
 		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
