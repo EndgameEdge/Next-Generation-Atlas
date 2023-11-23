@@ -2164,7 +2164,8 @@
                 "Unjustified, Granular Decisions Element Analysis": "A.1.5.8.0.2.3",
                 "Indirectly Through Biased Processes Element Analysis": "A.1.5.8.0.2.4",
                 "Clear Misalignment Risk Element Analysis": "A.1.5.8.0.2.5",
-				"Unjustified Element Analysis": "A.1.5.8.0.2.6"
+				"Unjustified Element Analysis": "A.1.5.8.0.2.6",
+				"Hidden Conflict of Interest Element Analysis": "A.1.5.8.0.2.7"
             }
         },
         "Last_Modified": "2023-11-22-00:00:00",
@@ -2174,7 +2175,8 @@
 			"A.1.5.8.0.2.3",
 			"A.1.5.8.0.2.4",
 			"A.1.5.8.0.2.5",
-			"A.1.5.8.0.2.6"
+			"A.1.5.8.0.2.6",
+			"A.1.5.8.0.2.7"
 		],
         "links_to": {},
         "linked_from": []
@@ -2251,6 +2253,19 @@
 		"Components": {
 		  "Element": "unjustified",
 		  "Analysis": "This element should be considered in conjunction with or in relation to the AVCs potential misuse of power through biased or unfair conditions described in the Element 1.5.8.0.2.1.\n'Unjustified' can be manifested as disproportionate resource allocations that cannot be explained by objective criteria, specific requirements that seem to serve no clear purpose other than to benefit certain entities, obligations imposed on certain actors that are excessively burdensome compared to industry norms, the withholding of information that should reasonably be accessible, or operating conditions imposed on some that are inexplicably more onerous than those placed on others. These identifiers are crucial for ensuring that the influence of AVCs is exercised with equity and accountability."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.8.0.2.7": {
+		"Name": "Hidden Conflict of Interest Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Hidden Conflict of Interest",
+		  "Analysis": "A 'hidden conflict of interest' as stated in A.1.5.8 refers to a situation where an individual or group in a position of trust has competing interests or loyalties that are not disclosed to those who depend on their honesty. In the context of AVC governance, such conflicts may compromise the integrity of decisions, as actions could be taken that benefit the individual or group at the expense of the collective good. The concealment of these conflicts represents a significant threat to the principles of transparent and equitable governance, as it undermines the trust necessary for effective collaboration and alignment with the Atlas's objectives. It is imperative for AVCs to have mechanisms in place to identify and address any hidden conflicts of interest to maintain fairness and impartiality in governance processes and that breaches of these rules are dealt with swiftly."
 		},
 		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
