@@ -28,3 +28,9 @@ You can directly access the latest version of the JSON file here:
 [ATLAS-WIP.JSON File](https://github.com/EndgameEdge/Next-Generation-Atlas/blob/main/Atlas/ATLAS-WIP.JSON)
 
 This link takes you directly to the `ATLAS-WIP.JSON` file in the `Atlas` directory of our GitHub repository.
+
+### Log File
+
+The log file contains detailed records of additions, structured to include the author, target article/section, and the name of the item added. You can access it here:
+
+[Log File](https://github.com/EndgameEdge/Next-Generation-Atlas/blob/main/Logs.md)
