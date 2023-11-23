@@ -1653,12 +1653,14 @@
         "Type": "Element Analysis Directory",
         "Components": {
             "List of Elements and their Element Analysis Documents": {
-                "Normal Conditions Element Analysis": "A.1.5.0.2.1"
+                "Normal Conditions Element Analysis": "A.1.5.0.2.1",
+				"Formal Powers Element Analysis": "A.1.5.0.2.2"
             }
         },
         "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.5.0.2.1"
+            "A.1.5.0.2.1",
+			"A.1.5.0.2.2"
         ],
         "links_to": {},
         "linked_from": []
@@ -1670,6 +1672,19 @@
 		"Components": {
 		  "Element": "Normal Conditions",
 		  "Analysis": "This element pertains to the regular, day-to-day operations of the governance process. It encompasses activities such as routine voting cycles, standard decision-making, and typical governance tasks. In essence, 'normal conditions' refer to situations where the governance process functions as expected, without any extraordinary events or crises that require emergency measures or interventions. Deviations from normal conditions include experiencing a large-scale governance attack, encountering situations that pose a reasonable risk of destroying the entire ecosystem, or facing non-routine events that result in unprecedented losses to the ecosystem or have the potential to lead to such losses. This element within the context of the Target Document leads to the conclusion that AVCs are suited to make key decisions and be in control during normal conditions; in non-ordinary conditions, they are not so suited. This is because, during normal conditions, the primary focus is on marginal governance improvement. However, in non-normal conditions, the primary focus shifts to reacting and responding to the unique challenges presented by the situation at hand."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
+	"A.1.5.0.2.2": {
+		"Name": "Formal Powers Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Formal Powers",
+		  "Analysis": "This element pertains to the authorized abilities or authorities granted within the governance framework. The term 'formal' simply signifies that these powers are officially acknowledged and derived from the Atlas. It is important to note that these powers for AVCs are not physical in nature, as AVCs do not directly cast votes themselves. Instead, they play a guiding role by providing direction to delegates through their Aligned Scope Proposals and Aligned Governance Strategy documents. These powers for AVCs encompass the interpretation of Universal Alignment and the application of this interpretation to facilitate the enhancement of the Atlas, ultimately aiming to foster increased alignment through the creation of Aligned Scope Proposals and Aligned Governance Strategy documents."
 		},
 		"Last_Modified": "2023-11-22-00:00:00",
 		"Child_Documents": [],
