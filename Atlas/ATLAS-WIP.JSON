@@ -1666,12 +1666,14 @@
         "Type": "Element Analysis Directory",
         "Components": {
             "List of Elements and their Element Analysis Documents": {
-                "Prescriptive and Self-Justifying Methods Element Analysis": "A.1.5.1.0.2.1"
+                "Prescriptive and Self-Justifying Methods Element Analysis": "A.1.5.1.0.2.1",
+				"Broader Aligned Structure Element Analysis": "A.1.5.1.0.2.2"
             }
         },
         "Last_Modified": "2023-11-22-00:00:00",
         "Child_Documents": [
-            "A.1.5.1.0.2.1"
+            "A.1.5.1.0.2.1",
+			"A.1.5.1.0.2.2"
         ],
         "links_to": {},
         "linked_from": []
@@ -1688,6 +1690,19 @@
         "links_to": {},
         "linked_from": []
     },
+	"A.1.5.1.0.2.2": {
+		"Name": "Broader Aligned Structure Element Analysis",
+		"Version": 1,
+		"Type": "Element Analysis",
+		"Components": {
+		  "Element": "Broader Aligned Structure",
+		  "Analysis": "Broader Aligned Structure refers to the entire structure of the governance of the ecosystem, particularly the components involved in upholding Alignment. This includes all Alignment Conservers, the Atlas, and AVC documents. This excludes Ecosystem Actors, DAI holders, and MKR holders, and any other type of ecosystem participant that does not play a direct part in upholding Alignment."
+		},
+		"Last_Modified": "2023-11-22-00:00:00",
+		"Child_Documents": [],
+		"links_to": {},
+		"linked_from": []
+	},
 	"A.1.5.1.0.3": {
 		"Name": "FacilitatorDAO Action Example Directory",
 		"Version": 1,
